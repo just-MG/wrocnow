@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/wrocnow/static/css/main.18d7f7c1.chunk.css",
+    "main.css": "/wrocnow/static/css/main.c943e59b.chunk.css",
     "main.js": "/wrocnow/static/js/main.20e9de00.chunk.js",
     "main.js.map": "/wrocnow/static/js/main.20e9de00.chunk.js.map",
     "runtime~main.js": "/wrocnow/static/js/runtime~main.1ccbb700.js",
@@ -10,9 +10,9 @@
     "static/js/3.ba8b7f13.chunk.js": "/wrocnow/static/js/3.ba8b7f13.chunk.js",
     "static/js/3.ba8b7f13.chunk.js.map": "/wrocnow/static/js/3.ba8b7f13.chunk.js.map",
     "index.html": "/wrocnow/index.html",
-    "precache-manifest.6ee706f2a9cffd7243d8202212df7900.js": "/wrocnow/precache-manifest.6ee706f2a9cffd7243d8202212df7900.js",
+    "precache-manifest.b4d773bce911e05bf9f93c3187e6017a.js": "/wrocnow/precache-manifest.b4d773bce911e05bf9f93c3187e6017a.js",
     "service-worker.js": "/wrocnow/service-worker.js",
-    "static/css/main.18d7f7c1.chunk.css.map": "/wrocnow/static/css/main.18d7f7c1.chunk.css.map",
+    "static/css/main.c943e59b.chunk.css.map": "/wrocnow/static/css/main.c943e59b.chunk.css.map",
     "static/media/logo.png": "/wrocnow/static/media/logo.2c9cf932.png"
   }
 }

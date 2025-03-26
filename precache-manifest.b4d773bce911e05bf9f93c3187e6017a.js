@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8cce7324dc535c913346b01dc5affc12",
+    "revision": "e67412db01c30dc02445e524ca2aa696",
     "url": "/wrocnow/index.html"
   },
   {
-    "revision": "202bf6a982a39530c29b",
-    "url": "/wrocnow/static/css/main.18d7f7c1.chunk.css"
+    "revision": "51eab0fca08a023f885d",
+    "url": "/wrocnow/static/css/main.c943e59b.chunk.css"
   },
   {
     "revision": "91532fe74c9ded204142",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/wrocnow/static/js/3.ba8b7f13.chunk.js"
   },
   {
-    "revision": "202bf6a982a39530c29b",
+    "revision": "51eab0fca08a023f885d",
     "url": "/wrocnow/static/js/main.20e9de00.chunk.js"
   },
   {
