@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/wrocnow/static/css/main.c943e59b.chunk.css",
-    "main.js": "/wrocnow/static/js/main.20e9de00.chunk.js",
-    "main.js.map": "/wrocnow/static/js/main.20e9de00.chunk.js.map",
-    "runtime~main.js": "/wrocnow/static/js/runtime~main.1ccbb700.js",
-    "runtime~main.js.map": "/wrocnow/static/js/runtime~main.1ccbb700.js.map",
-    "static/js/2.a7f37d0f.chunk.js": "/wrocnow/static/js/2.a7f37d0f.chunk.js",
-    "static/js/2.a7f37d0f.chunk.js.map": "/wrocnow/static/js/2.a7f37d0f.chunk.js.map",
-    "static/js/3.ba8b7f13.chunk.js": "/wrocnow/static/js/3.ba8b7f13.chunk.js",
-    "static/js/3.ba8b7f13.chunk.js.map": "/wrocnow/static/js/3.ba8b7f13.chunk.js.map",
-    "index.html": "/wrocnow/index.html",
-    "precache-manifest.b2d3d9060ac1cf80874ab822ce5bc49f.js": "/wrocnow/precache-manifest.b2d3d9060ac1cf80874ab822ce5bc49f.js",
-    "service-worker.js": "/wrocnow/service-worker.js",
-    "static/css/main.c943e59b.chunk.css.map": "/wrocnow/static/css/main.c943e59b.chunk.css.map",
-    "static/media/logo.png": "/wrocnow/static/media/logo.2c9cf932.png"
+    "main.css": "wrocnow.pl/static/css/main.c943e59b.chunk.css",
+    "main.js": "wrocnow.pl/static/js/main.20e9de00.chunk.js",
+    "main.js.map": "wrocnow.pl/static/js/main.20e9de00.chunk.js.map",
+    "runtime~main.js": "wrocnow.pl/static/js/runtime~main.7d268b33.js",
+    "runtime~main.js.map": "wrocnow.pl/static/js/runtime~main.7d268b33.js.map",
+    "static/js/2.a7f37d0f.chunk.js": "wrocnow.pl/static/js/2.a7f37d0f.chunk.js",
+    "static/js/2.a7f37d0f.chunk.js.map": "wrocnow.pl/static/js/2.a7f37d0f.chunk.js.map",
+    "static/js/3.ba8b7f13.chunk.js": "wrocnow.pl/static/js/3.ba8b7f13.chunk.js",
+    "static/js/3.ba8b7f13.chunk.js.map": "wrocnow.pl/static/js/3.ba8b7f13.chunk.js.map",
+    "index.html": "wrocnow.pl/index.html",
+    "precache-manifest.3bff457410583b6b99bc9d4ab8675ea3.js": "wrocnow.pl/precache-manifest.3bff457410583b6b99bc9d4ab8675ea3.js",
+    "service-worker.js": "wrocnow.pl/service-worker.js",
+    "static/css/main.c943e59b.chunk.css.map": "wrocnow.pl/static/css/main.c943e59b.chunk.css.map",
+    "static/media/logo.png": "wrocnow.pl/static/media/logo.2c9cf932.png"
   }
 }
